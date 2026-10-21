@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Suhani 👋
+CSE (Software Engineering) student at SRM Institute of Science and Technology, Kattankulathur.
 
-<!--
-**suhanichoudhary2403/suhanichoudhary2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- Solving DSA problems in Java
+- Learning Git, SQL and Linux
+- Building my first project
 
-Here are some ideas to get you started:
+## Completed
+- AI-ML Virtual Internship (Google for Developers, AICTE-EduSkills)
+- Gen AI Virtual Internship (AWS Academy, AICTE-EduSkills)
+- Cloud Virtual Internship (AWS Academy, AICTE-EduSkills)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Java · C · C++ (basic)
